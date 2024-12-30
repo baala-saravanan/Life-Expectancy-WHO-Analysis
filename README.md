@@ -1,2 +1,3 @@
 # Life-Expectancy-WHO-Analysis
+
 The WHO Life Expectancy dataset provides global statistics on life expectancy at birth and various ages, categorized by gender and health indicators. This analysis will involve comparing both regression and classification models. For regression, we will predict exact life expectancy values based on various features, while for classification, we will categorize countries as "developed" or "developing" based on the status column. We will evaluate model performance using metrics such as R² for regression and F1 score for classification. This dual approach will enhance our understanding of the factors influencing life expectancy and inform targeted public health strategies.
